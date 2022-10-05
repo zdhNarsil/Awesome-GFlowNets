@@ -48,3 +48,6 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 [Unifying Generative Models with GFlowNets](https://arxiv.org/abs/2209.02606)  
 Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
+
+[Evaluating Generalization in GFlowNets for Molecule Design](https://openreview.net/forum?id=JFSaHKNZ35b)  
+Andrei Cristian Nica, et al. ICML 2022 MLDD workshop.
