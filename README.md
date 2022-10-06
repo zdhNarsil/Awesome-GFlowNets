@@ -54,3 +54,6 @@ Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
 
 [Evaluating Generalization in GFlowNets for Molecule Design](https://openreview.net/forum?id=JFSaHKNZ35b)  
 Andrei Cristian Nica, et al. ICML 2022 MLDD workshop.
+
+## Contact
+Please feel free to drop a message to [dinghuai.zhang@mila.quebec](mailto:dinghuai.zhang@mila.quebec).
