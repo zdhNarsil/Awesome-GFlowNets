@@ -56,4 +56,4 @@ Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
 Andrei Cristian Nica, et al. ICML 2022 MLDD workshop.
 
 ## Contact
-Please feel free to drop a message to [dinghuai.zhang@mila.quebec](mailto:dinghuai.zhang@mila.quebec).
+If you have any suggestion or want to add your own work, please feel free to drop a message to [dinghuai.zhang@mila.quebec](mailto:dinghuai.zhang@mila.quebec).
