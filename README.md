@@ -24,6 +24,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
+Ling Pan, et al. 
+
 [Learning GFlowNets from partial episodes for improved convergence and stability](https://arxiv.org/abs/2209.12782) [SubTB criterion]  
 Kanika Madan, et al. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb)
 
