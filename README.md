@@ -24,6 +24,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)  
+Moksh Jain, et al.
+
 [Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
 Ling Pan, et al. 
 
