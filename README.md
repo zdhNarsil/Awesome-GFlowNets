@@ -24,6 +24,10 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Bayesian learning of Causal Structure and Mechanisms
+with GFlowNets and Variational Bayes](https://arxiv.org/abs/2211.02763)  [DAG-GFlowNet with parameters]  
+Mizu Nishikawa-Toomey, et al.  
+
 [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)  
 Moksh Jain, et al.
 
