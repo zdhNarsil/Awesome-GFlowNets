@@ -12,7 +12,7 @@ A curated list of resources about generative flow networks (GFlowNets).
 [GFlowNet Foundations](https://arxiv.org/abs/2111.09266)  
 Yoshua Bengio, et al.
 
-[GFlowNet Tutorial](https://milayb.notion.site/GFlowNet-Tutorial-919dcf0a0f0c4e978916a2f509938b00)  
+[The GFlowNet Tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3)  
 Yoshua Bengio. 
 
 [GFlowNet Tutorial Colab](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR)  
