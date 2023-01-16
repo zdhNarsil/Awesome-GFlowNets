@@ -38,7 +38,7 @@ Ling Pan, et al.
 Kanika Madan, et al. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb)
 
 [GFlowNets and variational inference](https://arxiv.org/abs/2210.00580v1)  
-Nikolay Malkin, et al. 
+Nikolay Malkin, et al. [[code]](https://openreview.net/attachment?id=uKiE0VIluA-&name=supplementary_material)  
 
 [Trajectory Balance: Improved Credit Assignment in GFlowNets](https://arxiv.org/abs/2201.13259)  [trajectory balance (TB) criterion]  
 Nikolay Malkin, et al. NeurIPS 2022. [[code]](https://github.com/GFNOrg/gflownet/tree/trajectory_balance)
