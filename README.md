@@ -29,7 +29,7 @@ with GFlowNets and Variational Bayes](https://arxiv.org/abs/2211.02763)  [DAG-GF
 Mizu Nishikawa-Toomey, et al.  
 
 [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)  
-Moksh Jain, et al.
+Moksh Jain, et al.  [[code]](https://github.com/recursionpharma/gflownet)    
 
 [Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
 Ling Pan, et al. 
