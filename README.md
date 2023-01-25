@@ -15,7 +15,7 @@ Yoshua Bengio, et al.
 [The GFlowNet Tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3)  
 Yoshua Bengio. 
 
-[GFlowNet Tutorial Colab](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR)  
+[GFlowNet Tutorial (Colab)](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR)  
 Emmanuel Bengio.
 
 <a name="paper" />
@@ -24,21 +24,17 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
-[Bayesian learning of Causal Structure and Mechanisms
-with GFlowNets and Variational Bayes](https://arxiv.org/abs/2211.02763)  [DAG-GFlowNet with parameters]  
-Mizu Nishikawa-Toomey, et al.  
-
 [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)  
 Moksh Jain, et al.  [[code]](https://github.com/recursionpharma/gflownet)    
 
-[Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
-Ling Pan, et al. 
-
 [Learning GFlowNets from partial episodes for improved convergence and stability](https://arxiv.org/abs/2209.12782) [SubTB criterion]  
-Kanika Madan, et al. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb)
+Kanika Madan, et al. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb) 
+
+[Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
+Ling Pan, et al. ICLR 2023 spotlight.  
 
 [GFlowNets and variational inference](https://arxiv.org/abs/2210.00580v1)  
-Nikolay Malkin, et al. [[code]](https://openreview.net/attachment?id=uKiE0VIluA-&name=supplementary_material)  
+Nikolay Malkin, et al. ICLR 2023. [[code]](https://openreview.net/attachment?id=uKiE0VIluA-&name=supplementary_material)  
 
 [Trajectory Balance: Improved Credit Assignment in GFlowNets](https://arxiv.org/abs/2201.13259)  [trajectory balance (TB) criterion]  
 Nikolay Malkin, et al. NeurIPS 2022. [[code]](https://github.com/GFNOrg/gflownet/tree/trajectory_balance)
@@ -58,6 +54,10 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 <a name="workshop" />
 
 ## Workshop paper \& Note
+
+[Bayesian learning of Causal Structure and Mechanisms
+with GFlowNets and Variational Bayes](https://arxiv.org/abs/2211.02763)  [DAG-GFlowNet with parameters]  
+Mizu Nishikawa-Toomey, et al.  
 
 [Unifying Generative Models with GFlowNets](https://arxiv.org/abs/2209.02606)  
 Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
