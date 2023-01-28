@@ -43,7 +43,7 @@ Nikolay Malkin, et al. NeurIPS 2022. [[code]](https://github.com/GFNOrg/gflownet
 Tristan Deleu, et al. UAI 2022. [[code]](https://github.com/tristandeleu/jax-dag-gflownet)
 
 [Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361) [energy-based GFlowNet]    
-Dinghuai Zhang, et al. ICML 2022. [[code]](https://github.com/GFNOrg/EB_GFN)
+Dinghuai Zhang, et al. ICML 2022. [[code]](https://github.com/zdhnarsil/EB_GFN)
 
 [Biological Sequence Design with GFlowNets](https://arxiv.org/abs/2203.04115)  
 Moksh Jain, et al. ICML 2022. [[code]](https://github.com/MJ10/BioSeq-GFN-AL)
