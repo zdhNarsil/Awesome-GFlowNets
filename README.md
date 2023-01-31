@@ -24,6 +24,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[A theory of continuous generative flow networks](https://arxiv.org/abs/2301.12594) [GFlowNet on continuous space]  
+Salem Lahlou, et al. [[code]](https://github.com/saleml/continuous-gfn)
+
 [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)  
 Moksh Jain, et al.  [[code]](https://github.com/recursionpharma/gflownet)    
 
