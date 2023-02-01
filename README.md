@@ -24,6 +24,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)  
+Dinghuai Zhang, et al. Preprint. ICML 2022 Beyond Bayes workshop.
+
 [A theory of continuous generative flow networks](https://arxiv.org/abs/2301.12594) [GFlowNet on continuous space]  
 Salem Lahlou, et al. [[code]](https://github.com/saleml/continuous-gfn)
 
@@ -61,9 +64,6 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 [Bayesian learning of Causal Structure and Mechanisms
 with GFlowNets and Variational Bayes](https://arxiv.org/abs/2211.02763)  [DAG-GFlowNet with parameters]  
 Mizu Nishikawa-Toomey, et al.  
-
-[Unifying Generative Models with GFlowNets](https://arxiv.org/abs/2209.02606)  
-Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
 
 [Evaluating Generalization in GFlowNets for Molecule Design](https://openreview.net/forum?id=JFSaHKNZ35b)  
 Andrei Cristian Nica, et al. ICML 2022 MLDD workshop.
