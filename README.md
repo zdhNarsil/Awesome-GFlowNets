@@ -25,7 +25,7 @@ Emmanuel Bengio.
 <!-- ### Modeling \& training -->
 
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)  
-Dinghuai Zhang, et al. Preprint. ICML 2022 Beyond Bayes workshop.
+Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
 
 [A theory of continuous generative flow networks](https://arxiv.org/abs/2301.12594) [GFlowNet on continuous space]  
 Salem Lahlou, et al. [[code]](https://github.com/saleml/continuous-gfn)
