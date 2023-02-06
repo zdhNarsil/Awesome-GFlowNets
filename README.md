@@ -27,6 +27,10 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Better Training of GFlowNets with
+Local Credit and Incomplete Trajectories](http://arxiv.org/abs/2302.01687) [forward-looking GFlowNet]  
+Ling Pan, et al. 
+
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)  
 Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
 
