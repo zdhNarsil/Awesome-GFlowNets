@@ -30,7 +30,7 @@ Emmanuel Bengio.
 [GFlowNet-EM for Learning Compositional Latent Variable Models](https://arxiv.org/abs/2302.06576) [GFlowNet for latent posterior]  
 Edward Hu, et al. [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
 
-[Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [distributional GFlowNets]  
+[Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [distributional GFlowNets for stochastic rewards]  
 Dinghuai Zhang, et al.  
 
 [Better Training of GFlowNets with
