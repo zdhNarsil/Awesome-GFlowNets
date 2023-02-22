@@ -53,7 +53,7 @@ Moksh Jain, et al.  [[code]](https://github.com/recursionpharma/gflownet)
 Kanika Madan, et al. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb) 
 
 [Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
-Ling Pan, et al. ICLR 2023 spotlight.  
+Ling Pan, et al. ICLR 2023 spotlight. [[code]](https://github.com/ling-pan/GAFN)  
 
 [GFlowNets and variational inference](https://arxiv.org/abs/2210.00580v1)  
 Nikolay Malkin, et al. ICLR 2023. [[code]](https://openreview.net/attachment?id=uKiE0VIluA-&name=supplementary_material)  
