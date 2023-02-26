@@ -27,7 +27,7 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
-[DynGFN: Bayesian Dynamic Causal Discovery using Generative Flow Networks](https://arxiv.org/abs/2302.04178) [GFlowNet for dynamical causal discovery]  
+[DynGFN: Bayesian Dynamic Causal Discovery using Generative Flow Networks](https://arxiv.org/abs/2302.04178) [GFlowNet for Bayesian dynamical causal discovery]  
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/dyn-gfn)]  
 
 [Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465) [model-based GFlowNets for stochastic transitions]  
