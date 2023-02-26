@@ -27,7 +27,7 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
-[Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465) [GFlowNets for stochastic transitions]  
+[Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465) [model-based GFlowNets for stochastic transitions]  
 Ling Pan, et al. 
 
 [GFlowNet-EM for Learning Compositional Latent Variable Models](https://arxiv.org/abs/2302.06576) [GFlowNet for latent posterior]  
