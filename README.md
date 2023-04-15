@@ -59,7 +59,7 @@ Kanika Madan, et al. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb)
 Ling Pan, et al. ICLR 2023 spotlight. [[code]](https://github.com/ling-pan/GAFN)  
 
 [GFlowNets and variational inference](https://arxiv.org/abs/2210.00580v1)  
-Nikolay Malkin, et al. ICLR 2023. [[code]](https://openreview.net/attachment?id=uKiE0VIluA-&name=supplementary_material)  
+Nikolay Malkin, et al. ICLR 2023. [[code]](https://github.com/GFNOrg/GFN_vs_HVI)  
 
 [Trajectory Balance: Improved Credit Assignment in GFlowNets](https://arxiv.org/abs/2201.13259)  [trajectory balance (TB) criterion]  
 Nikolay Malkin, et al. NeurIPS 2022. [[code]](https://github.com/GFNOrg/gflownet/tree/trajectory_balance)
