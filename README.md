@@ -34,26 +34,29 @@ Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/dyn-gfn)]
 Ling Pan, et al. 
 
 [GFlowNet-EM for Learning Compositional Latent Variable Models](https://arxiv.org/abs/2302.06576) [GFlowNet for latent posterior]  
-Edward Hu, et al. [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
+Edward Hu, et al. ICML 2023.   [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [distributional GFlowNets for stochastic rewards]  
 Dinghuai Zhang, et al.  
 
 [Better Training of GFlowNets with
 Local Credit and Incomplete Trajectories](http://arxiv.org/abs/2302.01687) [forward-looking GFlowNet]  
-Ling Pan, et al. 
+Ling Pan, et al. ICML 2023.  
 
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)  
 Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
 
 [A theory of continuous generative flow networks](https://arxiv.org/abs/2301.12594) [GFlowNet on continuous space]  
-Salem Lahlou, et al. [[code]](https://github.com/saleml/continuous-gfn)
+Salem Lahlou, et al. ICML 2023. [[code]](https://github.com/saleml/continuous-gfn)
 
 [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)  
-Moksh Jain, et al.  [[code]](https://github.com/recursionpharma/gflownet)    
+Moksh Jain, et al. ICML 2023.  [[code]](https://github.com/recursionpharma/gflownet)    
 
 [Learning GFlowNets from partial episodes for improved convergence and stability](https://arxiv.org/abs/2209.12782) [SubTB criterion]  
-Kanika Madan, et al. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb) 
+Kanika Madan, et al. ICML 2023. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb) 
+
+[GFlowOut: Dropout with Generative Flow Networks](https://arxiv.org/abs/2210.12928)  
+Dianbo Liu, et al. ICML 2023.  
 
 [Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
 Ling Pan, et al. ICLR 2023 spotlight. [[code]](https://github.com/ling-pan/GAFN)  
