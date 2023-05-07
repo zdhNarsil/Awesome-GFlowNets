@@ -18,7 +18,7 @@ Moksh Jain, et al.
 [The GFlowNet Tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3)  
 Yoshua Bengio. 
 
-[GFlowNet Tutorial (Colab)](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR)  
+[GFlowNet Tutorial (practical colab notebook)](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR)  
 Emmanuel Bengio.
 
 <a name="paper" />
