@@ -9,7 +9,7 @@ A curated list of resources about generative flow networks (GFlowNets).
 <a name="monograph" />
 
 ## Monograph \& Tutorial
-[GFlowNet Foundations](https://arxiv.org/abs/2111.09266)  
+[GFlowNet Foundations](https://arxiv.org/abs/2111.09266) [theoretical framework]  
 Yoshua Bengio, et al.
 
 [GFlowNets for AI-Driven Scientific Discovery](https://arxiv.org/abs/2302.00615) [review paper]  
