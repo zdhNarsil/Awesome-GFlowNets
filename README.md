@@ -15,7 +15,7 @@ Yoshua Bengio, et al.
 [GFlowNets for AI-Driven Scientific Discovery](https://arxiv.org/abs/2302.00615) [review paper]  
 Moksh Jain, et al.
 
-[The GFlowNet Tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3)  
+[The GFlowNet Tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3) [high level introduction]  
 Yoshua Bengio. 
 
 [GFlowNet Tutorial](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR) [PRACTICAL colab notebook]  
