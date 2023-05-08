@@ -31,7 +31,7 @@ Emmanuel Bengio.
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/dyn-gfn)]  
 
 [Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465) [model-based GFlowNets for stochastic transitions]  
-Ling Pan, et al. 
+Ling Pan, et al. UAI 2023.  
 
 [GFlowNet-EM for Learning Compositional Latent Variable Models](https://arxiv.org/abs/2302.06576) [GFlowNet for latent posterior]  
 Edward Hu, et al. ICML 2023.   [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
