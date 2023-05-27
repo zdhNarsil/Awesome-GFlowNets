@@ -37,7 +37,7 @@ Ling Pan, et al. UAI 2023.
 Edward Hu, et al. ICML 2023.   [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [distributional GFlowNets for stochastic rewards]  
-Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Distributional-GFlowNet)]   
+Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Distributional-GFlowNets)]   
 
 [Better Training of GFlowNets with
 Local Credit and Incomplete Trajectories](http://arxiv.org/abs/2302.01687) [forward-looking GFlowNet]  
