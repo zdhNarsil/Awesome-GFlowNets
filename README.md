@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
+Dinghuai Zhang, et al.
+
 [DynGFN: Bayesian Dynamic Causal Discovery using Generative Flow Networks](https://arxiv.org/abs/2302.04178) [GFlowNet for Bayesian dynamical causal discovery]  
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/dyn-gfn)]  
 
