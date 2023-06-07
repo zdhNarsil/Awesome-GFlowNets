@@ -59,7 +59,7 @@ Salem Lahlou, et al. ICML 2023. [[code]](https://github.com/saleml/continuous-gf
 Moksh Jain, et al. ICML 2023.  [[code]](https://github.com/recursionpharma/gflownet)    
 
 [Learning GFlowNets from partial episodes for improved convergence and stability](https://arxiv.org/abs/2209.12782) [SubTB criterion]  
-Kanika Madan, et al. ICML 2023. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb) 
+Kanika Madan, et al. ICML 2023 oral. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb) 
 
 [GFlowOut: Dropout with Generative Flow Networks](https://arxiv.org/abs/2210.12928)  
 Dianbo Liu, et al. ICML 2023.  
