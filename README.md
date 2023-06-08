@@ -89,6 +89,9 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[Goal-conditioned GFlowNets for Controllable Multi-Objective Molecular Design](https://arxiv.org/abs/2306.04620)   
+Julien Roy, et al.
+
 [Bayesian learning of Causal Structure and Mechanisms
 with GFlowNets and Variational Bayes](https://arxiv.org/abs/2211.02763)  [DAG-GFlowNet with parameters]  
 Mizu Nishikawa-Toomey, et al.  
