@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Multi-Fidelity Active Learning with GFlowNets](https://arxiv.org/abs/2306.11715)  
+Alex Hernandez-Garcia, et al. [[code](https://github.com/nikita-0209/mf-al-gfn)] 
+
 [Joint Bayesian Inference of Graphical Structure and Parameters with a Single Generative Flow Network](https://arxiv.org/abs/2305.19366)  
 Tristan Deleu, et al.
 
