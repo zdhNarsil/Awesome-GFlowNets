@@ -92,6 +92,9 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[Thompson sampling for improved exploration in GFlowNets](https://arxiv.org/abs/2306.17693)  
+Jarrid Rector-Brooks, et al. ICML 2023 SPIGM workshop.
+
 [BatchGFN: Generative Flow Networks for Batch Active Learning](https://arxiv.org/abs/2306.15058)  
 Shreshth A. Malik, et al. ICML 2023 SPIGM workshop. [[code](https://github.com/s-a-malik/batchgfn)]
 
