@@ -92,6 +92,9 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[Generative Flow Networks: a Markov Chain Perspective](https://arxiv.org/abs/2307.01422) [merge the initial and the terminal states]  
+Tristan Deleu, et al.
+
 [Thompson sampling for improved exploration in GFlowNets](https://arxiv.org/abs/2306.17693)  
 Jarrid Rector-Brooks, et al. ICML 2023 SPIGM workshop.
 
