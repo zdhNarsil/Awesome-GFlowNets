@@ -40,7 +40,7 @@ Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/GFlowNet-CombOpt)]
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/dyn-gfn)]  
 
 [Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465) [model-based GFlowNets for stochastic transitions]  
-Ling Pan, et al. UAI 2023.  
+Ling Pan, et al. UAI 2023. [[code](https://github.com/ling-pan/Stochastic-GFN)]  
 
 [GFlowNet-EM for Learning Compositional Latent Variable Models](https://arxiv.org/abs/2302.06576) [GFlowNet for latent posterior]  
 Edward Hu, et al. ICML 2023.   [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
@@ -50,7 +50,7 @@ Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Distributional-GFlow
 
 [Better Training of GFlowNets with
 Local Credit and Incomplete Trajectories](http://arxiv.org/abs/2302.01687) [forward-looking GFlowNet]  
-Ling Pan, et al. ICML 2023.  
+Ling Pan, et al. ICML 2023. [[code](https://github.com/ling-pan/FL-GFN)]  
 
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)  
 Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
