@@ -59,7 +59,7 @@ Dinghuai Zhang, et al. ICML 2022 Beyond Bayes workshop.
 Salem Lahlou, et al. ICML 2023. [[code]](https://github.com/saleml/continuous-gfn)
 
 [Multi-Objective GFlowNets](https://arxiv.org/abs/2210.12765)  
-Moksh Jain, et al. ICML 2023.  [[code]](https://github.com/recursionpharma/gflownet)    
+Moksh Jain, et al. ICML 2023.  [[code]](https://github.com/GFNOrg/multi-objective-gfn)    
 
 [Learning GFlowNets from partial episodes for improved convergence and stability](https://arxiv.org/abs/2209.12782) [SubTB criterion]  
 Kanika Madan, et al. ICML 2023 oral. [[code]](https://github.com/GFNOrg/gflownet/tree/subtb) 
