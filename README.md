@@ -92,6 +92,9 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[An Empirical Study of the Effectiveness of Using a Replay Buffer on Mode Discovery in GFlowNets](https://arxiv.org/abs/2307.07674)  
+Nikhil Vemgal, et al. ICML 2023 SPIGM workshop.
+
 [Generative Flow Networks: a Markov Chain Perspective](https://arxiv.org/abs/2307.01422) [merge the initial and the terminal states]  
 Tristan Deleu, et al.
 
