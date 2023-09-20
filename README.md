@@ -31,7 +31,7 @@ Emmanuel Bengio.
 Alex Hernandez-Garcia, et al. [[code](https://github.com/nikita-0209/mf-al-gfn)] 
 
 [Joint Bayesian Inference of Graphical Structure and Parameters with a Single Generative Flow Network](https://arxiv.org/abs/2305.19366)  
-Tristan Deleu, et al.
+Tristan Deleu, et al.  [[code](https://github.com/tristandeleu/jax-jsp-gfn)]  
 
 [Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
 Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/GFlowNet-CombOpt)]
