@@ -37,7 +37,7 @@ Tristan Deleu, et al. NeurIPS 2023. [[code](https://github.com/tristandeleu/jax-
 Dinghuai Zhang, et al. NeurIPS 2023 spotlight. [[code](https://github.com/zdhNarsil/GFlowNet-CombOpt)]
 
 [DynGFN: Bayesian Dynamic Causal Discovery using Generative Flow Networks](https://arxiv.org/abs/2302.04178) [GFlowNet for Bayesian dynamical causal discovery]  
-Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/dyn-gfn)]  
+Lazar Atanackovic, et al. NeurIPS 2023. [[code](https://github.com/lazaratan/dyn-gfn)]  
 
 [Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465) [model-based GFlowNets for stochastic transitions]  
 Ling Pan, et al. UAI 2023 spotlight. [[code](https://github.com/ling-pan/Stochastic-GFN)]  
