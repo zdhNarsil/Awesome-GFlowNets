@@ -31,10 +31,10 @@ Emmanuel Bengio.
 Alex Hernandez-Garcia, et al. [[code](https://github.com/nikita-0209/mf-al-gfn)] 
 
 [Joint Bayesian Inference of Graphical Structure and Parameters with a Single Generative Flow Network](https://arxiv.org/abs/2305.19366)  
-Tristan Deleu, et al.  [[code](https://github.com/tristandeleu/jax-jsp-gfn)]  
+Tristan Deleu, et al. NeurIPS 2023. [[code](https://github.com/tristandeleu/jax-jsp-gfn)]  
 
 [Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
-Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/GFlowNet-CombOpt)]
+Dinghuai Zhang, et al. NeurIPS 2023 spotlight. [[code](https://github.com/zdhNarsil/GFlowNet-CombOpt)]
 
 [DynGFN: Bayesian Dynamic Causal Discovery using Generative Flow Networks](https://arxiv.org/abs/2302.04178) [GFlowNet for Bayesian dynamical causal discovery]  
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/dyn-gfn)]  
