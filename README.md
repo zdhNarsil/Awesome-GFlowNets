@@ -70,7 +70,7 @@ Dianbo Liu, et al. ICML 2023.
 [Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
 Ling Pan, et al. ICLR 2023 spotlight. [[code]](https://github.com/ling-pan/GAFN)  
 
-[GFlowNets and variational inference](https://arxiv.org/abs/2210.00580v1)  
+[GFlowNets and variational inference](https://arxiv.org/abs/2210.00580)  
 Nikolay Malkin, et al. ICLR 2023. [[code]](https://github.com/GFNOrg/GFN_vs_HVI)  
 
 [Trajectory Balance: Improved Credit Assignment in GFlowNets](https://arxiv.org/abs/2201.13259)  [trajectory balance (TB) criterion]  
