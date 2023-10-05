@@ -33,6 +33,9 @@ Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Diffusion-Generative
 [Delta-AI: Local objectives for amortized inference in sparse graphical models](https://arxiv.org/abs/2310.02423)  
 Jean-Pierre Falet, et al. [[code](https://github.com/GFNOrg/Delta-AI/)] 
 
+[Expected flow networks in stochastic environments and two-player zero-sum games](https://arxiv.org/abs/2310.02779)  
+Marco Jiralerspong, et al. [[code](https://bit.ly/demoafn)] 
+
 [Multi-Fidelity Active Learning with GFlowNets](https://arxiv.org/abs/2306.11715)  
 Alex Hernandez-Garcia, et al. [[code](https://github.com/nikita-0209/mf-al-gfn)] 
 
