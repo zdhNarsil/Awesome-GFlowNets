@@ -27,6 +27,12 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
+Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
+
+[Delta-AI: Local objectives for amortized inference in sparse graphical models](https://arxiv.org/abs/2310.02423)  
+Jean-Pierre Falet, et al. [[code](https://github.com/GFNOrg/Delta-AI/)] 
+
 [Multi-Fidelity Active Learning with GFlowNets](https://arxiv.org/abs/2306.11715)  
 Alex Hernandez-Garcia, et al. [[code](https://github.com/nikita-0209/mf-al-gfn)] 
 
