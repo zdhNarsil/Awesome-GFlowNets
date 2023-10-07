@@ -48,6 +48,9 @@ Tristan Deleu, et al. NeurIPS 2023. [[code](https://github.com/tristandeleu/jax-
 [Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
 Dinghuai Zhang, et al. NeurIPS 2023 spotlight. [[code](https://github.com/zdhNarsil/GFlowNet-CombOpt)]
 
+[Sample-efficient Multi-objective Molecular Optimization with GFlowNets](https://arxiv.org/abs/2302.04040)  
+Yiheng Zhu, et al. NeurIPS 2023.
+
 [DynGFN: Bayesian Dynamic Causal Discovery using Generative Flow Networks](https://arxiv.org/abs/2302.04178) [GFlowNet for Bayesian dynamical causal discovery]  
 Lazar Atanackovic, et al. NeurIPS 2023. [[code](https://github.com/lazaratan/dyn-gfn)]  
 
