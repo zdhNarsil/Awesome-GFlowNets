@@ -107,6 +107,12 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[Causal Inference in Gene Regulatory Networks with GFlowNet: Towards Scalability in Large Systems](https://arxiv.org/abs/2310.03579)  
+Trang Nguyen, et al. 
+
+[Probabilistic Generative Modeling for Procedural Roundabout Generation for Developing Countries](https://arxiv.org/abs/2310.03687)  
+Zarif Ikram, et al. NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World.  
+
 [An Empirical Study of the Effectiveness of Using a Replay Buffer on Mode Discovery in GFlowNets](https://arxiv.org/abs/2307.07674)  
 Nikhil Vemgal, et al. ICML 2023 SPIGM workshop.
 
