@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/abs/2310.03419)  
+Ling Pan, et al.
+
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
 Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
 
