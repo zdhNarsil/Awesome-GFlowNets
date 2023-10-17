@@ -110,6 +110,9 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[Crystal-GFN: sampling crystals with desirable properties and constraints](https://arxiv.org/abs/2310.04925)  
+Alex Hernandez-Garcia, et al. [[code](https://github.com/alexhernandezgarcia/gflownet)]
+
 [Causal Inference in Gene Regulatory Networks with GFlowNet: Towards Scalability in Large Systems](https://arxiv.org/abs/2310.03579)  
 Trang Nguyen, et al. 
 
