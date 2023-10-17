@@ -28,10 +28,13 @@ Emmanuel Bengio.
 <!-- ### Modeling \& training -->
 
 [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/abs/2310.03419)  
-Ling Pan, et al.
+Ling Pan, et al. 
 
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
 Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
+
+[Amortizing intractable inference in large language models](https://arxiv.org/abs/2310.04363)  
+Edward J. Hu, et al. [[code](https://github.com/GFNOrg/gfn-lm-tuning)] 
 
 [Local Search GFlowNets](https://arxiv.org/abs/2310.02710)   
 Minsu Kim, et al. [[code](https://github.com/dbsxodud-11/ls_gfn)] 
