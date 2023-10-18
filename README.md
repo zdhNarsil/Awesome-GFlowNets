@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[PhyloGFN: Phylogenetic inference with generative flow networks](https://arxiv.org/abs/2310.08774)  
+Mingyang Zhou, et al. 
+
 [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/abs/2310.03419)  
 Ling Pan, et al. 
 
