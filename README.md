@@ -33,10 +33,10 @@ Mingyang Zhou, et al.
 [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/abs/2310.03419)  
 Ling Pan, et al. 
 
-[Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
+[Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679) [practical continuous space sampler]   
 Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
 
-[Amortizing intractable inference in large language models](https://arxiv.org/abs/2310.04363)  
+[Amortizing intractable inference in large language models](https://arxiv.org/abs/2310.04363) [finetune LLMs as GFlowNets]  
 Edward J. Hu, et al. [[code](https://github.com/GFNOrg/gfn-lm-tuning)] 
 
 [Local Search GFlowNets](https://arxiv.org/abs/2310.02710)   
