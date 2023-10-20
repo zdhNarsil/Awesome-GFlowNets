@@ -27,6 +27,12 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Generative Flow Networks as Entropy-Regularized RL](https://arxiv.org/abs/2310.12934)  
+Daniil Tiapkin, et al.
+
+[Order-Preserving GFlowNets](https://arxiv.org/abs/2310.00386)  
+Yihang Chen, et al.
+
 [PhyloGFN: Phylogenetic inference with generative flow networks](https://arxiv.org/abs/2310.08774)  
 Mingyang Zhou, et al. 
 
@@ -71,6 +77,9 @@ Edward Hu, et al. ICML 2023.   [[code](https://github.com/GFNOrg/GFlowNet-EM)]
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [distributional GFlowNets for stochastic rewards]  
 Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Distributional-GFlowNets)]   
+
+[Towards Understanding and Improving GFlowNet Training](https://arxiv.org/abs/2305.07170)  
+Max W. Shen, et al. ICML 2023.  [[code]](https://github.com/maxwshen/gflownet)  
 
 [Better Training of GFlowNets with
 Local Credit and Incomplete Trajectories](http://arxiv.org/abs/2302.01687) [forward-looking GFlowNet]  
