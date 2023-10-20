@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Generative Flow Networks as Entropy-Regularized RL](https://arxiv.org/abs/2310.12934)  
+Daniil Tiapkin, et al. 
+
 [PhyloGFN: Phylogenetic inference with generative flow networks](https://arxiv.org/abs/2310.08774)  
 Mingyang Zhou, et al. 
 
