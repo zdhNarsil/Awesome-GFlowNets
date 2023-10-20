@@ -73,7 +73,7 @@ Lazar Atanackovic, et al. NeurIPS 2023. [[code](https://github.com/lazaratan/dyn
 Ling Pan, et al. UAI 2023 spotlight. [[code](https://github.com/ling-pan/Stochastic-GFN)]  
 
 [GFlowNet-EM for Learning Compositional Latent Variable Models](https://arxiv.org/abs/2302.06576) [GFlowNet for latent posterior]  
-Edward Hu, et al. ICML 2023.   [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
+Edward J. Hu, et al. ICML 2023.   [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [distributional GFlowNets for stochastic rewards]  
 Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Distributional-GFlowNets)]   
@@ -102,6 +102,9 @@ Dianbo Liu, et al. ICML 2023.
 
 [Generative Augmented Flow Networks](https://arxiv.org/abs/2210.03308) [enabling intermediate rewards]  
 Ling Pan, et al. ICLR 2023 spotlight. [[code]](https://github.com/ling-pan/GAFN)  
+
+[Robust Scheduling with GFlowNets](https://arxiv.org/abs/2302.05446)  
+David Wei Zhang, et al. ICLR 2023. 
 
 [GFlowNets and variational inference](https://arxiv.org/abs/2210.00580)  
 Nikolay Malkin, et al. ICLR 2023. [[code]](https://github.com/GFNOrg/GFN_vs_HVI)  
