@@ -28,7 +28,7 @@ Emmanuel Bengio.
 <!-- ### Modeling \& training -->
 
 [Generative Flow Networks as Entropy-Regularized RL](https://arxiv.org/abs/2310.12934)  
-Daniil Tiapkin, et al.
+Daniil Tiapkin, et al. [[code](https://github.com/d-tiapkin/gflownet-rl)]  
 
 [Order-Preserving GFlowNets](https://arxiv.org/abs/2310.00386)  
 Yihang Chen, et al.
