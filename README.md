@@ -132,6 +132,9 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[DGFN: Double Generative Flow Networks](https://arxiv.org/abs/2310.19685)   
+Elaine Lau, et al. NeurIPS 2023 Workshop on Generative AI and Biology (GenBio 2023).
+
 [GFN-SR: Symbolic Regression with Generative Flow Networks](https://openreview.net/forum?id=r3fzEWnaY4)  
 Sida Li, et al.  NeurIPS 2023 AI for Science Workshop.  
 
