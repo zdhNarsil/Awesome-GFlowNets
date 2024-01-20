@@ -27,11 +27,14 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[A Theory of Non-Acyclic Generative Flow Networks](https://arxiv.org/abs/2312.15246)  
+Leo Maxime Brunswic, et al. AAAI 2024.
+
 [Generative Flow Networks as Entropy-Regularized RL](https://arxiv.org/abs/2310.12934)  
-Daniil Tiapkin, et al. [[code](https://github.com/d-tiapkin/gflownet-rl)]  
+Daniil Tiapkin, et al. AISTATS 2024 oral. [[code](https://github.com/d-tiapkin/gflownet-rl)]  
 
 [Order-Preserving GFlowNets](https://arxiv.org/abs/2310.00386)  
-Yihang Chen, et al. ICLR 2024.
+Yihang Chen, et al. ICLR 2024. [[code](https://github.com/yhangchen/OP-GFN)] 
 
 [PhyloGFN: Phylogenetic inference with generative flow networks](https://arxiv.org/abs/2310.08774)  
 Mingyang Zhou, et al. ICLR 2024.
