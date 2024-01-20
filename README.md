@@ -31,28 +31,31 @@ Emmanuel Bengio.
 Daniil Tiapkin, et al. [[code](https://github.com/d-tiapkin/gflownet-rl)]  
 
 [Order-Preserving GFlowNets](https://arxiv.org/abs/2310.00386)  
-Yihang Chen, et al.
+Yihang Chen, et al. ICLR 2024.
 
 [PhyloGFN: Phylogenetic inference with generative flow networks](https://arxiv.org/abs/2310.08774)  
-Mingyang Zhou, et al. 
+Mingyang Zhou, et al. ICLR 2024.
 
 [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/abs/2310.03419)  
-Ling Pan, et al. 
+Ling Pan, et al. ICLR 2024.
 
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679) [practical continuous space sampler]   
-Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
+Dinghuai Zhang, et al. ICLR 2024. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
 
 [Amortizing intractable inference in large language models](https://arxiv.org/abs/2310.04363) [finetune LLMs as GFlowNets]  
-Edward J. Hu, et al. [[code](https://github.com/GFNOrg/gfn-lm-tuning)] 
+Edward J. Hu, et al. ICLR 2024.  [[code](https://github.com/GFNOrg/gfn-lm-tuning)] 
+
+[Learning Energy Decompositions for Partial Inference of GFlowNets](https://arxiv.org/abs/2310.03301)   
+Hyosoon Jang, et al. ICLR 2024 oral.  
 
 [Local Search GFlowNets](https://arxiv.org/abs/2310.02710)   
-Minsu Kim, et al. [[code](https://github.com/dbsxodud-11/ls_gfn)] 
+Minsu Kim, et al. ICLR 2024 spotlight. [[code](https://github.com/dbsxodud-11/ls_gfn)] 
 
 [Delta-AI: Local objectives for amortized inference in sparse graphical models](https://arxiv.org/abs/2310.02423)  
-Jean-Pierre Falet, et al. [[code](https://github.com/GFNOrg/Delta-AI/)] 
+Jean-Pierre Falet, et al. ICLR 2024. [[code](https://github.com/GFNOrg/Delta-AI/)] 
 
 [Expected flow networks in stochastic environments and two-player zero-sum games](https://arxiv.org/abs/2310.02779)  
-Marco Jiralerspong, et al. [[code](https://bit.ly/demoafn)] 
+Marco Jiralerspong, et al. ICLR 2024. [[code](https://bit.ly/demoafn)] 
 
 [Compositional Sculpting of Iterative Generative Processes
 ](http://arxiv.org/abs/2309.16115)   
