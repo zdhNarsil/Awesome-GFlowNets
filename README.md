@@ -40,7 +40,7 @@ Yihang Chen, et al. ICLR 2024. [[code](https://github.com/yhangchen/OP-GFN)]
 Mingyang Zhou, et al. ICLR 2024.
 
 [Pre-Training and Fine-Tuning Generative Flow Networks](https://arxiv.org/abs/2310.03419)  
-Ling Pan, et al. ICLR 2024.
+Ling Pan, et al. ICLR 2024 spotlight.
 
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679) [practical continuous space sampler]   
 Dinghuai Zhang, et al. ICLR 2024. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
