@@ -86,7 +86,7 @@ Ling Pan, et al. UAI 2023 spotlight. [[code](https://github.com/ling-pan/Stochas
 Edward J. Hu, et al. ICML 2023.   [[code](https://github.com/GFNOrg/GFlowNet-EM)]  
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [distributional GFlowNets for stochastic rewards]  
-Dinghuai Zhang, et al. [[code](https://github.com/zdhNarsil/Distributional-GFlowNets)]   
+Dinghuai Zhang, et al. TMLR.  [[code](https://github.com/zdhNarsil/Distributional-GFlowNets)]   
 
 [Towards Understanding and Improving GFlowNet Training](https://arxiv.org/abs/2305.07170)  
 Max W. Shen, et al. ICML 2023.  [[code]](https://github.com/maxwshen/gflownet)  
