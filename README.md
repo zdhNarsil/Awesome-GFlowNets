@@ -27,7 +27,7 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
-[Collective Variable Free Transition Path Sampling with Generative Flow Network](https://arxiv.org/abs/2405.19961)
+[Collective Variable Free Transition Path Sampling with Generative Flow Network](https://arxiv.org/abs/2405.19961)   
 Kiyoung Seong, et al. 
 
 [QGFN: Controllable Greediness with Action Values](https://arxiv.org/abs/2402.05234)   
