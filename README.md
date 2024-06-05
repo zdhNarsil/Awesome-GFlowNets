@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Ant Colony Sampling with GFlowNets for Combinatorial Optimization](https://arxiv.org/abs/2403.07041)  
+Minsu Kim, et al.  [[code](https://github.com/ai4co/gfacs)]  
+
 [Collective Variable Free Transition Path Sampling with Generative Flow Network](https://arxiv.org/abs/2405.19961)   
 Kiyoung Seong, et al. 
 
