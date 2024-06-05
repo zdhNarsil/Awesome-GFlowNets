@@ -153,6 +153,9 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[Towards DNA-Encoded Library Generation with GFlowNets](https://arxiv.org/abs/2404.10094)   
+Michał Koziarski, et al. ICLR 2024 GEM workshop.
+
 [DGFN: Double Generative Flow Networks](https://arxiv.org/abs/2310.19685)   
 Elaine Lau, et al. NeurIPS 2023 Workshop on Generative AI and Biology (GenBio 2023).
 
