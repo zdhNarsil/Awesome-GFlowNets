@@ -5,6 +5,7 @@ A curated list of resources about generative flow networks (GFlowNets).
 - [Monograph \& Tutorial](#monograph)
 - [Paper](#paper)
 - [Workshop paper \& Note](#workshop)
+- [Video Tutorials and Workshops](#video)
 
 <a name="monograph" />
 
@@ -196,6 +197,46 @@ Mizu Nishikawa-Toomey, et al.
 
 [Evaluating Generalization in GFlowNets for Molecule Design](https://openreview.net/forum?id=JFSaHKNZ35b)  
 Andrei Cristian Nica, et al. ICML 2022 MLDD workshop.
+
+<a name="video" />
+
+## Video Tutorials and Workshops
+
+[Mila GFlowNet Workshop](https://www.gflownet.org/)
+- A 3-day free workshop on GFlowNets at Mila in Montreal | November 8-10th 2023
+- Livestreams records: [Day 01](https://www.youtube.com/watch?v=HHwhQx7W8jg) | [Day 02](https://www.youtube.com/watch?v=wYrZrPsm2NM) | [Day 03](https://www.youtube.com/watch?v=tMVJnzFqa6w)
+- Keynotes: [Youtube Playlist](https://www.youtube.com/playlist?list=PLvSH07QabjqZRKKuq92HN7zXqUIDk6Nyx)
+
+[Prof. YOSHUA BENGIO - GFlowNets, Consciousness & Causality](https://www.youtube.com/watch?v=M49TMqK5uCE&t=1s) [Machine Learning Street Talk]   
+Yoshua Bengio.
+
+[GFlowNet frameworks for theoretical neuroscience](https://www.youtube.com/watch?v=ggYoJp0b3Oo) [Montreal AI and Neuroscience]   
+Yoshua Bengio.
+
+[GFlowNets and System 2 Deep Learning](https://www.youtube.com/watch?v=647kOjU3TlE) [MSR-IISc AI Seminar Series]   
+Yoshua Bengio
+
+[GFlowNet Foundations and Applications in Biological Sequence Design](https://www.youtube.com/watch?v=D5sJkmvyhik) [Valance Labs]   
+Sebastian Voigtländer
+
+[Generative Flow Networks](https://www.youtube.com/watch?v=ZncOp1Dvw9o) [Harvard Institute for Applied Computational Science]   
+Yoshua Bengio
+
+[Improvements on GFlowNets Applied to Molecular Discovery](https://www.youtube.com/watch?v=_xR29KGKqZQ) [Valance Labs]   
+Emmanuel Bengio
+
+[Trends in AI Theory Seminar: Generative Flow Networks (GFlowNets)](https://www.youtube.com/watch?v=324fvrwtsso) [MediaTek Research]   
+Mark Chang
+
+[GFLOWNET: A theorical introduction and application on biological sequences design](https://www.youtube.com/watch?v=7W69-ffTs48) [MIAI Grenoble Alpes]   
+Moksh Jain and Alex Hernandez-Garcia
+
+[System 2 GFlowNets: Induction Biases Towards Machines that Understand and Think](https://www.youtube.com/watch?v=Q1fw75InQZE) [Santa Fe Institute]   
+Yoshua Bengio
+
+[GFlowNets and AI for Science](https://www.youtube.com/watch?v=zbRyVLtcCGI) [Princeton AI Club]   
+Yoshua Bengio
+
 
 ## Contact
 If you have any suggestion or want to add your own work, please feel free to drop a message to [dinghuai.zhang@mila.quebec](mailto:dinghuai.zhang@mila.quebec).
