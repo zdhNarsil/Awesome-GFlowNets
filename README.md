@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)   
+Dinghuai Zhang, et al. 
+
 [Ant Colony Sampling with GFlowNets for Combinatorial Optimization](https://arxiv.org/abs/2403.07041)  
 Minsu Kim, et al.  [[code](https://github.com/ai4co/gfacs)]  
 
