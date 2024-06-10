@@ -43,7 +43,7 @@ Elaine Lau, et al. [[code](https://github.com/yunglau/QGFN)]
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/gflownet-generalization)]
 
 [Embarrassingly Parallel GFlowNets](https://arxiv.org/abs/2406.03288)  
-Tiago da Silva et al. ICML 2024. 
+Tiago da Silva, et al. ICML 2024. 
 
 [Learning to Scale Logits for Temperature-Conditional GFlowNets](https://arxiv.org/abs/2310.02823)  
 Minsu Kim, et al. ICML 2024. [[code](https://github.com/dbsxodud-11/logit-gfn)]
