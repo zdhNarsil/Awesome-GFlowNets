@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Rectifying Reinforcement Learning for Reward Matching](https://arxiv.org/abs/2406.02213)  
+Haoran He, et al.  
+
 [Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)   
 Dinghuai Zhang, et al. 
 
