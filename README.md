@@ -165,6 +165,9 @@ Emmanuel Bengio, et al. NeurIPS 2021. [[blog post]](http://folinoid.com/w/gflown
 
 ## Workshop paper \& Note
 
+[Improving GFlowNets with Monte Carlo Tree Search](https://arxiv.org/abs/2406.13655)  
+Nikita Morozov, et al. ICML 2024 SPIGM workshop.
+
 [Towards DNA-Encoded Library Generation with GFlowNets](https://arxiv.org/abs/2404.10094)   
 Michał Koziarski, et al. ICLR 2024 GEM workshop.
 
