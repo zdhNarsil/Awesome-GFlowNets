@@ -45,6 +45,9 @@ Elaine Lau, et al. [[code](https://github.com/yunglau/QGFN)]
 [Investigating Generalization Behaviours of Generative Flow Networks](https://arxiv.org/abs/2402.05309)   
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/gflownet-generalization)]
 
+[Latent Logic Tree Extraction for Event Sequence Explanation from LLMs](https://arxiv.org/pdf/2406.01124)  
+Zitao Song, et al. ICML 2024.  
+
 [Embarrassingly Parallel GFlowNets](https://arxiv.org/abs/2406.03288)  
 Tiago da Silva, et al. ICML 2024. 
 
