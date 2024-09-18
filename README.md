@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[GFlowNet Pretraining with Inexpensive Rewards](https://arxiv.org/pdf/2409.09702)   
+Mohit Pandey, et al.  
+
 [Rectifying Reinforcement Learning for Reward Matching](https://arxiv.org/abs/2406.02213)  
 Haoran He, et al.  
 
