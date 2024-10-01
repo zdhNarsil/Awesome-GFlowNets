@@ -43,7 +43,7 @@ Minsu Kim, et al.  [[code](https://github.com/ai4co/gfacs)]
 Kiyoung Seong, et al. 
 
 [QGFN: Controllable Greediness with Action Values](https://arxiv.org/abs/2402.05234)   
-Elaine Lau, et al. [[code](https://github.com/yunglau/QGFN)]
+Elaine Lau, et al. [[code](https://github.com/yunglau/QGFN)]  NeurIPS 2024.   
 
 [Investigating Generalization Behaviours of Generative Flow Networks](https://arxiv.org/abs/2402.05309)   
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/gflownet-generalization)]
