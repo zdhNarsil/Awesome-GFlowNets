@@ -27,6 +27,9 @@ Emmanuel Bengio.
 
 <!-- ### Modeling \& training -->
 
+[Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization](https://arxiv.org/abs/2410.15474)   
+Timofei Gritsaev, et al. [[code](https://github.com/tgritsaev/gflownet-tlm)]  
+
 [GFlowNet Pretraining with Inexpensive Rewards](https://arxiv.org/pdf/2409.09702)   
 Mohit Pandey, et al.  
 
