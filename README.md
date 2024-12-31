@@ -45,6 +45,12 @@ Kiyoung Seong, et al.
 [QGFN: Controllable Greediness with Action Values](https://arxiv.org/abs/2402.05234)   
 Elaine Lau, et al. NeurIPS 2024.  [[code](https://github.com/yunglau/QGFN)]   
 
+[Streaming Bayes GFlowNets](https://arxiv.org/abs/2411.05899)    
+Tiago da Silva, et al. NeurIPS 2024. 
+
+[On Divergence Measures for Training GFlowNets](https://arxiv.org/abs/2410.09355)        
+Tiago da Silva, et al. NeurIPS 2024. 
+
 [Investigating Generalization Behaviours of Generative Flow Networks](https://arxiv.org/abs/2402.05309)   
 Lazar Atanackovic, et al. [[code](https://github.com/lazaratan/gflownet-generalization)]
 
