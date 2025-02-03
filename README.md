@@ -42,6 +42,9 @@ Minsu Kim, et al.  [[code](https://github.com/ai4co/gfacs)]
 [Collective Variable Free Transition Path Sampling with Generative Flow Network](https://arxiv.org/abs/2405.19961)   
 Kiyoung Seong, et al. 
 
+[FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling](https://arxiv.org/abs/2501.12592)   
+Emir Ceyani, et al. SIAM-SDM2025.  
+
 [QGFN: Controllable Greediness with Action Values](https://arxiv.org/abs/2402.05234)   
 Elaine Lau, et al. NeurIPS 2024.  [[code](https://github.com/yunglau/QGFN)]   
 
